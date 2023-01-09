@@ -4,7 +4,7 @@
 # Kelas: TI.22.A3
 
 ## Link youtube : https://youtu.be/gqjGC-yREGA
-## File PDF     : 
+## File PDF     : [UAS_packagedanmodul.pdf](https://github.com/taufikalbani13/lab2py/files/10373655/UAS_packagedanmodul.pdf)
 
 
 
